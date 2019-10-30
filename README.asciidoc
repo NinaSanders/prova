@@ -9,7 +9,7 @@ controlla lo stato dei file segnando in rosso quelli modificati o creati
 == git add
 aggiunge i file al prossimo commit,se tutto va bene non stampa niente
 
-== git commit-m "file e spigazione"
+== git commit -m "file e spigazione"
 registra le modifiche e permette di scrivere una spiegazione
 
 == git push
