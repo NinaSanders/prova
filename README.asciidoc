@@ -1,4 +1,28 @@
 = Titolo
 
+== git clone
+copia un archivio remoto
 
-modifica
+== git status
+controlla lo stato dei file segnando in rosso quelli modificati o creati
+
+== git add
+aggiunge i file al prossimo commit,se tutto va bene non stampa niente
+
+== git commit-m "file e spigazione"
+registra le modifiche e permette di scrivere una spiegazione
+
+== git push
+invia al server remoto i commit locali
+
+== git fetch
+prende un file lo mette da parte senzza modificare niente
+
+== git pull
+scarica le modifiche dal server sulla propria cartella
+
+== git diff
+confronta i file attuali con quelli presenti nell'ultimo commit
+
+. le righe rosse sono quelle rimosse
+. le righe verdi sono quelle aggiunte
